@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Admin/Desktop/Penny-Wise/app/signIn/%5B%5B...signIn%5D%5D/page.tsx"],"sourcesContent":["import { SignIn } from \"@clerk/nextjs\";\r\nexport default function signinpage(){\r\n    return (\r\n        <div className=\"mt-4 flex align-center justify-center\">\r\n        <SignIn forceRedirectUrl=\"/dashboard\"/>\r\n        </div>\r\n\r\n    )\r\n}"],"names":[],"mappings":";;;;AAAA;;;AACe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;kBACf,cAAA,8OAAC,sLAAA,CAAA,SAAM;YAAC,kBAAiB;;;;;;;;;;;AAIjC","debugId":null}}]
+}

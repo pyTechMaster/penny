@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/dashboard/page.tsx -> @/app/components/AccountsStats":{"id":42338,"files":["static/chunks/338.9649f49819df2dfc.js"]},"app/dashboard/page.tsx -> @/app/components/TransactionHistory":{"id":94187,"files":["static/chunks/187.cc9f0eef14f4fa2e.js"]}}';
